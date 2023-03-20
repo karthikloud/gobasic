@@ -19,6 +19,6 @@ func printArea(s Shape) {
 }
 
 func main() {
-	square := Square{side: 5}
+	square := Square{side: 5.8}
 	printArea(square)
 }
